@@ -2,12 +2,14 @@ import React from "react";
 
 const About = () => {
   const coreSkills = [
-    "HTML (Markup Language)",
-    "CSS (Styling Language)",
-    "JavaScript (Programming Language)",
-    "Node.js (Runtime Environment)",
-    "PostgreSQL (Database Management System)",
-  ];
+  "HTML (Markup Language)",
+  "CSS (Styling Language)",
+  "JavaScript (Programming Language)",
+  "Node.js (Runtime Environment)",
+  "SQL (Query Language)",
+  "PostgreSQL (Database Management System)",
+  "MySQL (Relational Database Management System)",
+];
 
   const learningSkills = [
     "React (UI Library)",
